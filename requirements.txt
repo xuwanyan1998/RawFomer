@@ -1,0 +1,8 @@
+torch==1.12.1
+tensorboard==2.10.0
+rawpy==0.17.2
+scikit-image==0.19.3
+imageio
+tqdm
+ptflops
+einops
